@@ -149,9 +149,6 @@ of the arguments of the following arguments:
     ``--noinput``:
         If provided, the interactive prompts are skipped and the index is
         unceremoniously wiped out.
-    ``--remove``:
-        Remove objects from the index that are no longer present in the
-        database.
     ``--verbosity``:
         If provided, dumps out more information about what's being done.
 
